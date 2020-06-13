@@ -1,0 +1,22 @@
+- Criando Base do Projeto
+- Aplicando MVC
+- Criando Primeiro CRUD
+
+- Criando os Models
+- Aprimorando os Controllers
+- Requisições ao Banco de Dados
+- Segurança na API usando jwt
+- Login e Middleware
+- API concluída
+- Entendendo Hospedagem de API
+
+- criar usuário
+- autenticar
+- criar músicas
+- atualizar músicas
+- listar músicas
+- criar playlists
+- ler a playlists
+- deletar playlists
+- editar playlists
+- adicionar aos favoritos

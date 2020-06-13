@@ -1,0 +1,14 @@
+{
+  "name": "api-spotify",
+  "version": "1.0.0",
+  "description": "API spotify",
+  "author": "th3exorcist",
+  "license": "MIT",
+  "dependences": {
+    "express": "4.17.1"
+  },
+  "scripts": {
+    // yarn run start
+    "start": "nodemon ./scr/apps.js"
+  }
+}
